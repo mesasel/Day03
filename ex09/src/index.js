@@ -8,6 +8,8 @@ function main(numOne, numTwo) {
     
     }
     
-    console.log(main(15, 8),main(25, 8),main(425,120)); // change this line
+    console.log(main(15, 8)); // change this line
+    console.log(main(25, 8)); // change this line
+    console.log(main(425,120)); // change this line
 
     module.exports = main;
