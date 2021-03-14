@@ -6,7 +6,7 @@ function main() {
     var titleCaseOver;
     // Variable assignments
     studlyCapVar = 10;
-    titleCamelCase = "A String";
+    properCamelCase = "A String";
     titleCaseOver = 9000;
 
     // Only change code above this line
